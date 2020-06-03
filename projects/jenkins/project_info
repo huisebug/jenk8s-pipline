@@ -1,0 +1,3 @@
+jenkins#java_repo=https://github.com/huisebug/jenk8s-java.git
+jenkins#nodejs_repo=https://github.com/huisebug/jenk8s-nodejs.git
+jenkins#html_repo=https://github.com/huisebug/jenk8s-html.git
